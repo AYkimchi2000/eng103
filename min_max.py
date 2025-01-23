@@ -14,4 +14,4 @@ while True:
         min = user_input
 
 print(f"min: {min}")
-print(f"max: {105}")
+print(f"max: {max}")
