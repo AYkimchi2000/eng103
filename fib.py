@@ -1,4 +1,9 @@
 def fib(x):
+    """
+    returns corresponding fib number given the index
+    input: index number
+    return: fib number at the given index 
+    """
     fibseq = [1, 1]
     if x == 1:
         return 1
