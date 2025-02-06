@@ -6,6 +6,3 @@ def find_median(nums):
     else:
         return (nums[n // 2 - 1] + nums[n // 2]) / 2
 
-some_nums = [13, 7, -3, 82, 4]
-result = find_median(some_nums)
-print(result)
